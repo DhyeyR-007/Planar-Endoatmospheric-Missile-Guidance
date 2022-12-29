@@ -5,7 +5,7 @@ Consider a Pursuer(missile) P and Evader E according to the interception geometr
 
 Altitude(w.r.t. oA) Pursuer P = hP\
 Altitude(w.r.t. oA) Evader E = hE\
-{oA = a fixed point at sea level}
+{oA = a fixed point at sea level}\
 
 ownrange distance P = dP \ 
 downrange distance E = dE \
